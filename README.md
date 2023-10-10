@@ -1,7 +1,7 @@
 
-#Paid tols
+# Paid tols
 
-#Fast Install 
+# Fast Install 
 
 pkg update && pkg upgrade
 
@@ -19,7 +19,7 @@ pip install mechanize
 
 git clone https://github.com/CYBER-RIPON-404/404
 
-#Script run
+# Script run
 cd 404
 
 python error.py
